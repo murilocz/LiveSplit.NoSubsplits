@@ -1,0 +1,12 @@
+﻿<updates>
+	<update version ="1.0.0">
+		<files>
+			<file path="Components/LiveSplit.PreviousSegmentNoSubsplits.dll" status="added"/>
+			<file path="Components/LiveSplit.RunPredictionNoSubsplits.dll" status="added"/>
+			<file path="Components/LiveSplit.NoSubsplitsHelper.dll" status="added"/>
+		</files>
+		<changelog>
+			<change>Added versions of PreviousSegment and RunPrediction without subsplits.</change>
+		</changelog>
+	</update>
+</updates>

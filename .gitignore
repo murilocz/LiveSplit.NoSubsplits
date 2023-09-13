@@ -361,3 +361,27 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Components/Codaxy.Xlio.dll
+/Components/CustomFontDialog.dll
+/Components/ICSharpCode.SharpZipLib.dll
+/Components/IrcDotNet.Common.dll
+/Components/IrcDotNet.Common.xml
+/Components/IrcDotNet.dll
+/Components/IrcDotNet.xml
+/Components/LinqToTwitter.dll
+/Components/LiveSplit.Core.dll
+/Components/LiveSplit.Core.dll.config
+/Components/LiveSplit.Core.xml
+/Components/LiveSplit.exe
+/Components/LiveSplit.exe.config
+/Components/LiveSplit.View.dll
+/Components/Microsoft.WindowsAPICodePack.dll
+/Components/Microsoft.WindowsAPICodePack.Shell.dll
+/Components/SharpDX.DirectInput.dll
+/Components/SharpDX.DirectInput.xml
+/Components/SharpDX.dll
+/Components/SharpDX.xml
+/Components/SpeedrunComSharp.dll
+/Components/update.LiveSplit.NoSubsplits.xml
+/Components/UpdateManager.dll
+/Components/WinFormsColor.dll
